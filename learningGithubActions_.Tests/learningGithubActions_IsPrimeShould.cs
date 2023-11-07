@@ -20,7 +20,7 @@ namespace learningGithubActions_.UnitTests.Services
         {
             var result = _primeService.IsPrime(value);
 
-            Assert.True(result, $"{value} should not be prime");
+            Assert.False(result, $"{value} should not be prime");
         }
     }
 }
