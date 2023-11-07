@@ -1,0 +1,12 @@
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/bin/Debug/net7.0/learningGithubActions_.deps.json
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/bin/Debug/net7.0/learningGithubActions_.dll
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/bin/Debug/net7.0/learningGithubActions_.pdb
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.csproj.AssemblyReference.cache
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.AssemblyInfoInputs.cache
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.AssemblyInfo.cs
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.csproj.CoreCompileInputs.cache
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.dll
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/refint/learningGithubActions_.dll
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/learningGithubActions_.pdb
+/Users/jjberg/Github/learningGithubActions_/learningGithubActions_/obj/Debug/net7.0/ref/learningGithubActions_.dll
