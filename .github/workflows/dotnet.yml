@@ -6,8 +6,8 @@ name: .NET
 on:
   push:
     branches: [ "GitHubActions_Implementasjon" ]
-  pull_request:
-    branches: [ "main" ]
+  # pull_request:
+  #   branches: [ "main" ]
 
 jobs:
   build:
